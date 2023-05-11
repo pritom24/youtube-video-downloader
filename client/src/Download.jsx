@@ -78,6 +78,7 @@ const Download = () => {
           )
         )}
       </div>
+      <span className="mt-[250px] text-white">developed by pritom</span>
     </div>
   );
 };
